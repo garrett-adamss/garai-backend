@@ -2,8 +2,13 @@
 
 ```
 python3 -m venv venv
+
+source venv/bin/activate
+
+pip install -r requirements.txt
 ```
 
+## run the app
 ```
-source venv/bin/activate
-```# garai-backend
+python app.py
+```
