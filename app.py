@@ -31,5 +31,9 @@ def ask_ai():
     answer = response.choices[0].text.strip()
     return jsonify({'answer': answer})
 
+@app.route('/')
+def index():
+    return "GarAi backend is running."
+
 if __name__ == '__main__':
     app.run(debug=True)
