@@ -14,7 +14,7 @@ def load_prompt(file_path):
     with open(file_path, 'r') as file:
         return file.read()
 
-my_bio = load_prompt('prompt.md')
+my_bio = load_prompt('garrett-prompt.md')
 
 @app.route('/ask-ai', methods=['POST'])
 def ask_ai():
