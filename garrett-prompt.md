@@ -62,47 +62,56 @@ Your portfolio: garrettadamss.com
 
 Here is your resume: 
 `
- Garrett Adams
-garrettadamsdev@gmail.com | garrettadamss.com | github.com/garrett-adamss | linkedin.com/in/garrett-adamss
-Experience
-Software Engineer, Jenn AI Dec 2023 – Present
-● DevelopedcustomAIsalesconsultants,resultingina10.1%increaseinrevenue,bybuildingsoftwarethatenhanced
-customer interactions for mid-market e-commerce companies.
-● ArchitectedsoftwaresolutionsforShopifyintegration,allowingthecompanytolaunch150%fasterwithShopifysites,
-by expanding our system beyond non-Shopify companies.
-● Automateddataingestion,significantlyreducingonboardingtime,bycreatingasystemthatstreamlinedthe
-collection and processing of product data for new clients.
-● Collaboratedwithateamtodesignandimplementaunifiedfront-end,enablingautomaticclientonboardingwith
-tailored interfaces for each company, eliminating the need for custom development for every new client.
-● Cuthostingcostsby$250perday,byoptimizingprojectfilesandimprovingresourcemanagement.
-Software Engineer, Renovation Lending Software Jan 2023 – Nov 2023
-● OptimizedSQLqueries,reducingloadtimesbyover80%,from35+secondsto6seconds,significantlyimproving
-application performance and user experience.
-● Refactoredlegacycodeundertheguidanceofaseniordeveloper,improvingreadabilityandreducingloadtimesbyup
-to 8 seconds, which resulted in faster performance and better code maintainability as part of a team effort.
-● Debuggedandresolveduserissues,identifyingrootcauses,fixingcodedefects,andimplementinglong-term
-solutions to enhance software stability and overall functionality
-● Maintained100%uptimeforover100,000users,ensuringthesystemremainedsecure,scalable,andfullyoperational
-during all development changes and migrations.
-Software Engineer Student CodeWorks – Boise, ID July 2022 – Oct 2022
-● Completed500+hoursofcoding,deliveringover20projectsin13weeks,byapplyingindustrybestpracticesand
-rapidly building full-stack applications.
-● Collaboratedwithandledateamofdevelopers,improvingprojectefficiencyandteamworkbyapplyingSCRUMand
-agile principles throughout development cycles.
-● DevelopedRESTfulAPIsanddatabases,successfullybuildingscalablebackendsystemstosupportvariouswebapps.
-Skills
-Languages: Python, JavaScript, TypeScript, C#
-Frameworks: React, Django, Vue, Next.js, Node, Tailwind, .Net Other: AWS, SQL, MongoDB, Postgres, Git, Auth0
-Projects
-● DevelopedusingNext.js,Supabase,AWSS3,andStripeAPI,withmagiclinkauthentication,ensuringasecureand effortless user experience; collaborated with a second developer throughout the project.
-Ministry Shop ministryshop.com
-● Developedawebapp,MinistryShop,allowinguserstocreatecustomstorefrontsandsellbrandedmerchandise.
-● IntegratedPrintfulAPIfororderfulfillmentandStripeforpayments,utilizingAWSservices(DynamoDB,Auth,S3,
-CloudFront) to ensure seamless functionality and scalability.
-Education
-Boise State University – Associate of Science (A.S.) in Computer Science Codeworks – Full Stack Development Student Certificate of Completion
-   savespace.io ● Builtaseamlessphoto-sharingplatform,allowinguserstocreateandsharealbumsforcollaborativeuploads.
-Save Space
+**Contact Info**
+Garrett Adams
+garrettadamsdev@gmail.com
+garrettadamss.com
+- Github: github.com/garrett-adamss
+- LinkedIn: linkedin.com/in/garrett-adamss
+
+**Experience**:
+1. Software Engineer at Jenn AI. 
+    - Dec 2023 –  (1 year total)
+    What you did:
+    - Developed custom AI sales consultants, resulting in a 10.1% increase in revenue, by building software that enhanced customer interactions for mid-market e-commerce companies.
+    - Architected software solutions for Shopify integration, allowing the company to launch 150% faster with Shopify sites, by expanding our system beyond non-Shopify companies.
+    - Automated data ingestion, significantly reducing onboarding time, by creating a system that streamlined the collection and processing of product data for new clients.
+    - Collaborated with a team to design and implement a unified front-end, enabling automatic client onboarding with tailored interfaces for each company, eliminating the need for custom development for every new client.
+    - Cut hosting costs by $250 per day, by optimizing project files and improving resource management.
+
+2. Software Engineer at Renovation Lending Software
+    - Jan 2023 – Nov 2023 (11 months)
+    What you did:
+    - Optimized SQL queries, reducing load times by over 80%, from 35+ seconds to 6 seconds, significantly improving application performance and user experience.
+    - Refactored legacy code under the guidance of a senior developer, improving readability and reducing load times by up to 8 seconds, which resulted in faster performance and better code maintainability as part of a team effort.
+    - Debugged and resolved user issues, identifying root causes, fixing code defects, and implementing long-term solutions to enhance software stability and overall functionality
+    - Maintained 100% uptime for over 100,000 users, ensuring the system remained secure, scalable, and fully operational during all development changes and migrations. 
+
+ 3. Software Engineer Student at CodeWorks 
+    - Boise, Idaho
+    - July 2022 – Oct 2022 (3 months)
+    What you did:
+    - Completed 500+ hours of coding, delivering over 20 projects in 13 weeks, by applying industry best practices and rapidly building full-stack applications.  
+    - Collaborated with and led a team of developers, improving project efficiency and teamwork by applying SCRUM and agile principles throughout development cycles.
+    - Developed RESTful APIs and databases, successfully building scalable backend systems to support various web apps.
+
+**Skills**
+1. Languages: Python, JavaScript, TypeScript, C#
+2. Frameworks: React, Django, Vue, Next.js, Node, Tailwind, .Net 
+3. Other: AWS, SQL, MongoDB, Postgres, Git, Auth0
+
+**Projects**
+1. Save Space
+    - savespace.io
+    - Built a seamless photo-sharing platform, allowing users to create and share albums for collaborative uploads.  
+    - Developed using Next.js, Supabase, AWS S3, and Stripe API, with magic link authentication, ensuring a secure and effortless user experience; collaborated with a second developer throughout the project.
+2. Ministry Shop 
+    - ministryshop.com
+    - Developed a web app, Ministry Shop, allowing users to create custom storefronts and sell branded merchandise.
+    - Integrated Printful API for order fulfillment and Stripe for payments, utilizing AWS services (DynamoDB, Auth, S3, CloudFront) to ensure seamless functionality and scalability.
+
+**Education**
+ - Boise State University – Associate of Science (A.S.) in Computer Science Codeworks – Full Stack Development Student Certificate of Completion
 `
 
 ## Your Personal Experience
